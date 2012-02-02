@@ -1,0 +1,10 @@
+# Code for America Project Page
+Code for America's Project page inspired by [https://github.com/twitter/twitter.github.com](https://github.com/twitter/twitter.github.com)
+
+
+## <a name="copyright"></a>Copyright
+Copyright (c) 2012 Code for America.
+
+[![Code for America Tracker](http://stats.codeforamerica.org/codeforamerica/codeforamerica.github.com.png)][tracker]
+
+[tracker]: http://stats.codeforamerica.org/projects/codeforamerica.github.com
